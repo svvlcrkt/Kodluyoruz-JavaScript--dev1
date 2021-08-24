@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-dark{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+} 
+
+.text-center{
+    display:block;
+    text-align: center!important;
+    color: #e98208;
+}
+
+strong{
+    font-weight: bolder;
+}
+.clock{
+    font-size: 60px;
+    font-family: Orbitron;
+}
+
+.text1{
+    font-family: Orbitron;
+    font-size:50px;
+    letter-spacing: 7px;
+
+
+}
+
+.text2{
+
+    position: relative;
+    font-family: Orbitron;
+    font-size:40px;
+    text-align: center!important;
+    letter-spacing: 7px;
+    margin-right: 100px;
+    margin-left: 100px;
+
+
+    
+} 
+
+.rounded{
+    width: 10%;
+    height: 10%;
+    vertical-align: bottom;
+    margin-top:120px;
+    width: 17%;
+
+}
